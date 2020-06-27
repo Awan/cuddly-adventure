@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bootloader on Abdullah</title>
-    <link>https://abdullah.today/tags/bootloader/</link>
+    <link>https://zafran.tk/tags/bootloader/</link>
     <description>Recent content in bootloader on Abdullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://abdullah.today/tags/bootloader/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zafran.tk/tags/bootloader/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EFISTUB</title>
-      <link>https://abdullah.today/efistub/</link>
+      <link>https://zafran.tk/efistub/</link>
       <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://abdullah.today/efistub/</guid>
+      <guid>https://zafran.tk/efistub/</guid>
       <description>So in this post I&amp;rsquo;m gonna guide you how you can use efistub, a feature which you can use to boot the kernel without an extra boot manager(grub, systemd-boot, rEFInd etc.)
 Create a boot entry using efibootmgr.
 # efibootmgr --create --disk /dev/sda --part 1 --label Debian --loader /vmlinuz --unicode &amp;quot;root=/dev/sda2 rw initrd=\initrd.img&amp;quot; --verbose Explaination of the command.
