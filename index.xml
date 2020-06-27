@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdullah</title>
+    <link>https://abdullah.today/</link>
+    <description>Recent content on Abdullah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 18:13:35 +0500</lastBuildDate>
+    
+	<atom:link href="https://abdullah.today/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TMUX</title>
+      <link>https://abdullah.today/tmux/</link>
+      <pubDate>Sat, 06 Jun 2020 18:13:35 +0500</pubDate>
+      
+      <guid>https://abdullah.today/tmux/</guid>
+      <description>TMUX tmux is a terminal multiplexer. You can run programs inside a tmux session, detach session and continue running programs in background, reattach later.
+Installation tmux is available in all linux distributions. You can install it using your distribution&amp;rsquo;s package manager. In Arch Linux:
+$ sudo pacman -S tmux Start You can start tmux by invoking tmux command inside your terminal.
+Keybindings The default modifier key is Ctrl + b followed by a key.</description>
+    </item>
+    
+    <item>
+      <title>git Cherry Pick</title>
+      <link>https://abdullah.today/posts/cherry-pick/</link>
+      <pubDate>Thu, 04 Jun 2020 14:25:08 +0500</pubDate>
+      
+      <guid>https://abdullah.today/posts/cherry-pick/</guid>
+      <description>Git cherry-picking Aah picking cherries! ❤️
+I&amp;rsquo;m using git since I started using linux. Cherry-pick is one of those commands I do alot with git. Right now I&amp;rsquo;m preparing a new cherry and will pick it later. 😉
+What&amp;rsquo;s cherry-pick? According to man(1) git-cherry-pick:
+Given one or more existing commits, apply the change each one introduces, recording a new commit for each. This requires your working tree to be clean (no modifications from the HEAD commit).</description>
+    </item>
+    
+    <item>
+      <title>Multihead with BSPWM and Polybar</title>
+      <link>https://abdullah.today/multihead/</link>
+      <pubDate>Tue, 02 Jun 2020 10:52:37 +0500</pubDate>
+      
+      <guid>https://abdullah.today/multihead/</guid>
+      <description>Multihead A few days ago, I relocated myself to new room. Actually this room I use for summer as its way cooler than others. I have a wall-mounted LCD monitor here so today I thought I should share how I do multi screening.
+Hardware I have this lenovo X series machine which is my main machine I use. Its resolution is 1920x1080.
+The second one is a LCD monitor. And the resolution is 1280x1024.</description>
+    </item>
+    
+    <item>
+      <title>BSPWM</title>
+      <link>https://abdullah.today/bspwm/</link>
+      <pubDate>Mon, 01 Jun 2020 19:02:44 +0500</pubDate>
+      
+      <guid>https://abdullah.today/bspwm/</guid>
+      <description>BSPWM BSPWM is a tiling window manager that represents windows as the leaves of a full binary tree. It has support for EWMH and multihead.
+Installation bspwm is available in almost all major distributions. If you can&amp;rsquo;t find it in your OS, clone the repository and build it.
+Configuration bspwm uses sxhkd for keyboard shortcuts. It has no other way to handle with keyboard input and instead provides bspc program as its interface.</description>
+    </item>
+    
+    <item>
+      <title>Terminal Sharing service</title>
+      <link>https://abdullah.today/tmate/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdullah.today/tmate/</guid>
+      <description>What&amp;rsquo;s tmate? On *nix systems, sometimes we need support. And geeks don&amp;rsquo;t like GUI apps just to have your system in front of them, at least I don&amp;rsquo;t like that 😉
+tmate is terminal sharing software you can use it to connect with your friends and you both work from there. It&amp;rsquo;s available in many distributions repos and in case you aren&amp;rsquo;t lucky enough, you can compile it from source or there are pre-compiled binaries there in their Github page.</description>
+    </item>
+    
+    <item>
+      <title>CRUX</title>
+      <link>https://abdullah.today/crux/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdullah.today/crux/</guid>
+      <description>CRUX is like a good looking, really good looking, gorgeous, hot girl without any cheap perfume or makeup, waiting for you to customize her in any way you see fit. On top of that, she is free, permanent and wont make absurd and disturbing demands.</description>
+    </item>
+    
+    <item>
+      <title>How to install CRUX with encryption</title>
+      <link>https://abdullah.today/encrypted-crux/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdullah.today/encrypted-crux/</guid>
+      <description>How to install fully encrypted CRUX This post is for crux users who wanna secure their crux installation.
+Partitioning I&amp;rsquo;m gonna use two partitions. First boot partition will be unencrypted which holds kernel. I use secure boot with my own keys. You can find a post in my blog how to do that. and I have some ports too for secure boot.    ;(adsbygoogle = window.adsbygoogle || []).push({})  Unencrypted Boot Partition    ;(adsbygoogle = window.</description>
+    </item>
+    
+    <item>
+      <title>How to include a screenshot in Github README</title>
+      <link>https://abdullah.today/github-readme/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdullah.today/github-readme/</guid>
+      <description>A picture is worth 1000 words. Working with github repos, sometimes you want to include a screenshot in your repos. Today I&amp;rsquo;ll help you getting this done in one step.
+Go to your repo page and click on issues.
+Click new issue
+Take a screenshot you wanna add and paste it there using Control + V or whatever you like.
+   ;(adsbygoogle = window.adsbygoogle || []).push({})  You will get a link once the screenshot is uploaded.</description>
+    </item>
+    
+    <item>
+      <title>How to manage a website using git</title>
+      <link>https://abdullah.today/site-as-git-repo/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdullah.today/site-as-git-repo/</guid>
+      <description>Git is another awesome tool developed and maintained by Linus Torvalds who wrote linux kernel. In this post I&amp;rsquo;ll explain how can we use it for our site maintenance. I have a vps on which my site is hosted along with a mail server, git server and a web server too. But I&amp;rsquo;m sure this guide can be used with shared hosting accounts with some modifications.
+Install git. Once installed, as root user, create git user and add it to www-data group.</description>
+    </item>
+    
+    <item>
+      <title>Create/paste snippets from Terminal</title>
+      <link>https://abdullah.today/gists/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://abdullah.today/gists/</guid>
+      <description>What&amp;rsquo;s snippet/gist? gist is a piece of code or maybe some important text shared on Github or Gitlab. It&amp;rsquo;s actually a git repository so you can clone it, work on it locally and push changes.
+Share gists from Terminal There are multiple programs available in many distributions for this purpose. You just have to find it. On Arch Linux, you can install gist.
+Here is how it works in terminal.</description>
+    </item>
+    
+  </channel>
+</rss>
